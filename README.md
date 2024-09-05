@@ -5,7 +5,7 @@ Each game is designed to provide unique and engaging experiences for players of 
 
 Features:
 
-Multi-Game Collection: Enjoy ten diverse games within a single app.User-Friendly Interface: Smooth and intuitive UI/UX for seamless navigation.Cross-Platform Compatibility: Runs smoothly on both Android and iOS devices.
+Multi-Game Collection: Enjoy ten diverse games within a single app.User-Friendly Interface: Smooth and intuitive UI/UX for seamless navigation.
 Engaging Gameplay: High-quality graphics and responsive controls for an immersive experience.
 
 Installation
